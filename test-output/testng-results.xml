@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-20T19:02:17 EEST" name="Train_testng" finished-at="2024-04-20T19:02:17 EEST" duration-ms="94">
+    <groups>
+    </groups>
+    <test started-at="2024-04-20T19:02:17 EEST" name="Train testng" finished-at="2024-04-20T19:02:17 EEST" duration-ms="94">
+      <class name="pack.Train">
+        <test-method signature="Test01()[pri:0, instance:pack.Train@774698ab]" started-at="2024-04-20T19:02:17 EEST" name="Test01" finished-at="2024-04-20T19:02:17 EEST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test02()[pri:0, instance:pack.Train@774698ab]" started-at="2024-04-20T19:02:17 EEST" name="Test02" finished-at="2024-04-20T19:02:17 EEST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test03()[pri:0, instance:pack.Train@774698ab]" started-at="2024-04-20T19:02:17 EEST" name="Test03" finished-at="2024-04-20T19:02:17 EEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+      </class> <!-- pack.Train -->
+    </test> <!-- Train testng -->
+  </suite> <!-- Train_testng -->
+</testng-results>
